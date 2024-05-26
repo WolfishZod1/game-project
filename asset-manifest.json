@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/game-project/static/css/main.1a5eb24d.css",
+    "main.js": "/game-project/static/js/main.9fb9f8ed.js",
+    "static/js/453.ed3810f9.chunk.js": "/game-project/static/js/453.ed3810f9.chunk.js",
+    "static/media/theEnd.jpg": "/game-project/static/media/theEnd.41e09ce917ed18a03c55.jpg",
+    "static/media/3142-font.ttf": "/game-project/static/media/3142-font.581826a5907c0fde0d94.ttf",
+    "index.html": "/game-project/index.html",
+    "main.1a5eb24d.css.map": "/game-project/static/css/main.1a5eb24d.css.map",
+    "main.9fb9f8ed.js.map": "/game-project/static/js/main.9fb9f8ed.js.map",
+    "453.ed3810f9.chunk.js.map": "/game-project/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a5eb24d.css",
+    "static/js/main.9fb9f8ed.js"
+  ]
+}
